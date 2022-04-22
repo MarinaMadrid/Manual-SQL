@@ -1,0 +1,40 @@
+# SQL HOME
+- SELECT y SELECT DISTINCT
+- WHERE:
+    - Operators
+    - AND
+    - OR
+    - NOT
+- ORDER BY
+- INSERT INTO
+- NULL values
+- UPDATE
+- DELETE
+- FUNCTIONS: 
+    - SELECT TOP
+    - MIN y MAX
+    - COUNT, AVG y SUM
+- LIKE
+- WILDCARS
+- IN
+- BETWEEN
+- ALIASES
+- JOINS:
+    - INNER JOIN
+    - LEFT JOIN
+    - RIGHT JOIN
+    - FULL JOIN
+    - SELF JOIN
+    - UNION
+- GROUP BY
+- HAVING
+- EXISTS
+- ANY y ALL
+- SELECT INTO
+- INSERT INTO SELECT
+- CASE
+- NULL Functions
+- Stored Procedures
+- Comments
+- Operators
+
