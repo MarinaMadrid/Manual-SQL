@@ -1,2 +1,3 @@
 # Manual-SQL
-Manual SQL de w3schools
+
+https://www.w3schools.com/sql/
